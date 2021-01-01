@@ -3949,7 +3949,8 @@ body.elementor-page .elementor-widget-menu-anchor {
 
 .slick-slider .slick-list, .slick-slider .slick-track {
     -webkit-transform: translateZ(0);
-    transform: translateZ(0)
+    transform: translateZ(0);
+    /*width: 1200px !important;*/
 }
 
 .slick-track {
