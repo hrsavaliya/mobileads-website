@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Nav = () => (
-    <nav className="navbar navbar-fixed-top " data-spy="affix" data-offset-top={70}>
+const Nav = ({}) => (
+    <nav className="navbar navbar-fixed-top " data-spy="affix" data-offset-top={70} >
         <div className="container-fluid menu_center">
             <div className="navbar-header">
                 <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

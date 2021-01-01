@@ -57,20 +57,20 @@ const Resources = () => (
                                                     <div className="eael-grid-post-holder">
                                                         <div className="eael-grid-post-holder-inner">
                                                             <div className="eael-entry-media">
-                                                                <div className="eael-entry-overlay fade-in"><i className aria-hidden="true" /><a href="post/how-to-face-indie-developer-challenges/index.html" /></div>
+                                                                <div className="eael-entry-overlay fade-in"><i className aria-hidden="true" /><a href="../post/how-to-face-indie-developer-challenges/index.html" /></div>
                                                                 <div className="eael-entry-thumbnail">
                                                                     <img src="../Assets/wp-content/uploads/2019/11/img_5dd3b3f32c776" alt="" />
                                                                 </div>
                                                             </div>
                                                             <div className="eael-entry-wrapper">
-                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="post/how-to-face-indie-developer-challenges/index.html" title="Living Indie: How To Face The Indie Developer Challenges Smartly">Living Indie: How To Face The Indie
+                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="../post/how-to-face-indie-developer-challenges/index.html" title="Living Indie: How To Face The Indie Developer Challenges Smartly">Living Indie: How To Face The Indie
                                                                     Developer Challenges Smartly</a></h2>
                                                                 </header>
                                                                 <div className="eael-entry-content">
                                                                     <div className="eael-grid-post-excerpt"><p>
                                                                         Let’s face it, there are some great
                                                                         app developers out there with
-                                                                        the...</p><a href="post/how-to-face-indie-developer-challenges/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
+                                                                        the...</p><a href="../post/how-to-face-indie-developer-challenges/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
                                                                 </div>
                                                                 <div className="eael-entry-footer">
                                                                     <div className="eael-author-avatar"><a href="#"><img alt="" src="https://secure.gravatar.com/avatar/?s=96&d=monsterid&r=g" className="avatar avatar-96 photo avatar-default jetpack-lazy-image" height={96} width={96} loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/?s=192&d=monsterid&r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/?s=96&is-pending-load=1#038;d=monsterid&r=g" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
@@ -94,14 +94,14 @@ const Resources = () => (
                                                     <div className="eael-grid-post-holder">
                                                         <div className="eael-grid-post-holder-inner">
                                                             <div className="eael-entry-wrapper">
-                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="post/infographic-social-media-advertising-statistics-2019/index.html" title="Social Media Advertising Statistics – 2019">Social Media Advertising Statistics –
+                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="../post/infographic-social-media-advertising-statistics-2019/index.html" title="Social Media Advertising Statistics – 2019">Social Media Advertising Statistics –
                                                                     2019</a></h2></header>
                                                                 <div className="eael-entry-content">
                                                                     <div className="eael-grid-post-excerpt">
-                                                                        <p /><a href="post/infographic-social-media-advertising-statistics-2019/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
+                                                                        <p /><a href="../post/infographic-social-media-advertising-statistics-2019/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
                                                                 </div>
                                                                 <div className="eael-entry-footer">
-                                                                    <div className="eael-author-avatar"><a href="post/author/bhishamb62e631e86/index.html"><img alt="" src="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=96&d=monsterid&r=g" className="avatar avatar-96 photo jetpack-lazy-image" height={96} width={96} loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=192&d=monsterid&r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=96&is-pending-load=1#038;d=monsterid&r=g" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+                                                                    <div className="eael-author-avatar"><a href="../post/author/bhishamb62e631e86/index.html"><img alt="" src="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=96&d=monsterid&r=g" className="avatar avatar-96 photo jetpack-lazy-image" height={96} width={96} loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=192&d=monsterid&r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=96&is-pending-load=1#038;d=monsterid&r=g" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
                                                                         <noscript>&lt;img alt=''
                                                                             src='https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=96&amp;amp;d=monsterid&amp;amp;r=g'
                                                                             srcset='https://secure.gravatar.com/avatar/38fe245177ca561dd7b7f29d8b04cfff?s=192&amp;#038;d=monsterid&amp;#038;r=g 2x'
@@ -111,7 +111,7 @@ const Resources = () => (
                                                                             loading='lazy'/&gt;
                                                                         </noscript>
                                                                     </a></div>
-                                                                    <div className="eael-entry-meta"><span className="eael-posted-by"><a href="post/author/bhishamb62e631e86/index.html" title="Posts by Bhisham Vashistha" rel="author">Bhisham Vashistha</a></span><span className="eael-posted-on"><time dateTime="November 19, 2019">November 19, 2019</time></span>
+                                                                    <div className="eael-entry-meta"><span className="eael-posted-by"><a href="../post/author/bhishamb62e631e86/index.html" title="Posts by Bhisham Vashistha" rel="author">Bhisham Vashistha</a></span><span className="eael-posted-on"><time dateTime="November 19, 2019">November 19, 2019</time></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -122,14 +122,14 @@ const Resources = () => (
                                                     <div className="eael-grid-post-holder">
                                                         <div className="eael-grid-post-holder-inner">
                                                             <div className="eael-entry-wrapper">
-                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="post/artificial-intelligence-future-of-mobile-game-development/index.html" title="Artificial Intelligence(A.I.) – The Future of Mobile Game Development">Artificial Intelligence(A.I.) – The Future
+                                                                <header className="eael-entry-header"><h2 className="eael-entry-title"><a className="eael-grid-post-link" href="../post/artificial-intelligence-future-of-mobile-game-development/index.html" title="Artificial Intelligence(A.I.) – The Future of Mobile Game Development">Artificial Intelligence(A.I.) – The Future
                                                                     of Mobile Game Development</a></h2>
                                                                 </header>
                                                                 <div className="eael-entry-content">
                                                                     <div className="eael-grid-post-excerpt"><p>
                                                                         Mobile gaming doesn’t generate
                                                                         nearly as much hype as console and
-                                                                        PC gaming....</p><a href="post/artificial-intelligence-future-of-mobile-game-development/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
+                                                                        PC gaming....</p><a href="../post/artificial-intelligence-future-of-mobile-game-development/index.html" className="eael-post-elements-readmore-btn">Read more →</a></div>
                                                                 </div>
                                                                 <div className="eael-entry-footer">
                                                                     <div className="eael-author-avatar"><a href="https://www.apptunix.com/top-mobile-game-development-company/"><img alt="" src="https://secure.gravatar.com/avatar/?s=96&d=monsterid&r=g" className="avatar avatar-96 photo avatar-default jetpack-lazy-image" height={96} width={96} loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/?s=192&d=monsterid&r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/?s=96&is-pending-load=1#038;d=monsterid&r=g" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />

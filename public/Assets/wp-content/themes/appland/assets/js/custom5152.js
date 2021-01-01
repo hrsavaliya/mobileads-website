@@ -278,6 +278,7 @@
         blogmasonry();
         function bodyScrollAnimation() {
             if($(window).width()>768) {
+                // eslint-disable-next-line no-undef
                 new WOW( {
                         animateClass: 'animated', offset: 0, mobile: !0, duration: 1000,
                     }
@@ -287,4 +288,5 @@
         bodyScrollAnimation()
     }
 
+// eslint-disable-next-line no-undef
 )(jQuery);
