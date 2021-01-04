@@ -8,9 +8,9 @@ const Footer = () => (
                     <div id="nav_menu-14" className="widget footer-widget col-xs-6 col-sm-6 col-md-3 wow fadeIn widget_nav_menu" data-wow-delay="0ms" data-wow-duration="1500ms" data-wow-offset={0} style={{visibility: 'visible', animationDuration: '1500ms', animationDelay: '0ms', animationName: 'fadeIn'}}>
                         <div className="menu-quick-links-container">
                             <ul id="menu-quick-links" className="menu">
-                                <li id="menu-item-3926" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3926"><a href="about-us/index.html">About Us</a></li>
-                                <li id="menu-item-5319" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="blog/index.html">Blog</a></li>
-                                <li id="menu-item-3928" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3928"><a href="success-stories/index.html">Success Stories</a></li>
+                                <li id="menu-item-3926" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3926"><a href="/company/about">About Us</a></li>
+                                <li id="menu-item-5319" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="/blog">Blog</a></li>
+                                <li id="menu-item-3928" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3928"><a href="/success-stories">Success Stories</a></li>
                                 <li id="menu-item-5304" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5304"><a href="write-for-us/index.html">Write For Us</a></li>
                                 <li id="menu-item-5312" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5312"><a href="terms-of-services/index.html">Terms of Services</a></li>
                                 <li id="menu-item-5309" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309"><a href="privacy-policy/index.html">Privacy Policy</a></li>
